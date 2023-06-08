@@ -66,7 +66,7 @@ Make Section 1 Heading:
   Git-> branch called resume
         ->git commits with clear commit messages
         ->host the final project on git pages
-        due date is 10 Feb 2023
+        due date is 30 June 2023
 
 
 
